@@ -14,7 +14,7 @@ namespace CiTestDemo
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("我加个添加");
+            Console.WriteLine("111111");
             CreateWebHostBuilder(args).Build().Run();
         }
 
